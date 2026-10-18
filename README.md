@@ -5,11 +5,10 @@ This repository contains the full submission for Homework of the Algorithmic Met
 The repository is structured according to the course submission guidelines as follows:
 
 ```text
-.
-├── README.md           # Repository documentation and overview
-├── scripts.ipynb       # Jupyter Notebook containing code for all exercises
-└── printouts/          # Screenshots and PDF confirming HackerRank submissions
-
+├── README.md             # Homework documentation and project overview
+├── problem1_scripts.py   # Python solutions for Problem 1 (HackerRank Domains)
+├── problem2_scripts.py   # Python solutions for Problem 2 (HackerRank Algorithms)
+└── printouts::.pdf.pdf   # Exported PDF containing all HackerRank submission logs
 ```
 Solved Challenges
 
